@@ -1,0 +1,15 @@
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\bin\Debug\net8.0\ExceptionsExercise.exe
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\bin\Debug\net8.0\ExceptionsExercise.deps.json
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\bin\Debug\net8.0\ExceptionsExercise.runtimeconfig.json
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\bin\Debug\net8.0\ExceptionsExercise.dll
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\bin\Debug\net8.0\ExceptionsExercise.pdb
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ExceptionsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ExceptionsExercise.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ExceptionsExercise.AssemblyInfo.cs
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ExceptionsExercise.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ExceptionsExercise.sourcelink.json
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ExceptionsExercise.dll
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\refint\ExceptionsExercise.dll
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ExceptionsExercise.pdb
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ExceptionsExercise.genruntimeconfig.cache
+C:\Users\tiago\source\repos\Exections exercise\ExceptionsExercise\obj\Debug\net8.0\ref\ExceptionsExercise.dll

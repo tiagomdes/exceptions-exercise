@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "Exections exercise\\Entities\\Exceptions\\AccountException.cs",
               "ToolTip": "C:\\Users\\tiago\\source\\repos\\Exections exercise\\Exections exercise\\Entities\\Exceptions\\AccountException.cs",
               "RelativeToolTip": "Exections exercise\\Entities\\Exceptions\\AccountException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T17:11:56.052Z"
+              "WhenOpened": "2024-10-12T17:11:56.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,9 +49,10 @@
               "RelativeDocumentMoniker": "Exections exercise\\Entities\\Account.cs",
               "ToolTip": "C:\\Users\\tiago\\source\\repos\\Exections exercise\\Exections exercise\\Entities\\Account.cs",
               "RelativeToolTip": "Exections exercise\\Entities\\Account.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAswCEAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T16:54:58.977Z"
+              "WhenOpened": "2024-10-12T16:54:58.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +62,7 @@
               "RelativeDocumentMoniker": "Exections exercise\\Program.cs",
               "ToolTip": "C:\\Users\\tiago\\source\\repos\\Exections exercise\\Exections exercise\\Program.cs",
               "RelativeToolTip": "Exections exercise\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T23:49:00.437Z",
               "EditorCaption": ""
